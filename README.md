@@ -24,13 +24,15 @@ Each measure is scaled, then measured from 1 to 25. The total opportunity score 
 
 Data was cleaned, manipulated and merged in Python then exported to Tableau for visualisation. 
 
+All data was for 2025.
+
 **📄 Data and Supporting Documents**
 
 [Published Dashboard](https://public.tableau.com/views/FlexibleElecOpportunity/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[EV Chargers](https://alternative-fuels-observatory.ec.europa.eu/transport-mode/road/european-union-eu27/country-comparison): 2025 data
+[EV Chargers](https://alternative-fuels-observatory.ec.europa.eu/transport-mode/road/european-union-eu27/country-comparison)
 
-[Population Data](https://ec.europa.eu/eurostat/web/population-demography/demography-population-stock-balance/database): to calculate EV density
+[Population Data](https://ec.europa.eu/eurostat/web/population-demography/demography-population-stock-balance/database)
 
 [Renewable Generation](https://ec.europa.eu/eurostat/databrowser/view/nrg_cb_pem__custom_20149696/default/table)
 
